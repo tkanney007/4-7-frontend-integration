@@ -1,4 +1,4 @@
-# Insert Lesson Title
+# Frontend integration using cors
 
 ## Dependencies
 
@@ -10,11 +10,11 @@ Refer to the following markdown file for the respective sections of the class:
 ## Lesson Objectives
 
 Learners will understand:
-- Insert the knowledge to be acquired
+- How a frontend client can communicate with an Express backend
 
 Learners will be able to:
-- Insert the skillset to be acquired
-
+- Add cors to the backend server to allow cross-origin resource sharing
+- Consume backend endpoints using Axios
 
 ## Lesson Plan
 

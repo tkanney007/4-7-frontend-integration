@@ -2,7 +2,15 @@
 
 ### Brief
 
-Enter instruction for assignment here.
+Create components that would do the following:
+1. Display all items in tabular form
+2. Form to create an item (make sure that the category is included)
+
+Challenge 1:
+Create links and routes for each category that when the category is click, it displays all items for the category.
+
+Challenge 2: 
+Create a link to a form to edit the category name.
 
 ### Submission 
 
