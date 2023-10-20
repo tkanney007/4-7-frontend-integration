@@ -1,4 +1,4 @@
-const express = require('express');
+const express = require("express");
 const cors = require("cors");
 
 const categoryRoutes = require("./routes/categoryRoutes");
@@ -12,5 +12,5 @@ app.use(express.json());
 app.use("/categories", categoryRoutes);
 
 app.listen(port, () => {
-  console.log(`App listening on port ${port}`)
+  console.log(`App listening on port ${port}`);
 });
